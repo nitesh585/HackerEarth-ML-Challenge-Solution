@@ -1,4 +1,4 @@
-# HackerEarth-ML-Challege-Solution
+# HackerEarth-ML-Challenge-Solution
  HackerEarth Machine Learning challenge: Mothers’ Day with Machine Learning.<br> Secured 3rd Rank.<br>
  [Link of the Challenge :](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-mothers-day/)
  
